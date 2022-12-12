@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jaddamo/mongo-note-taker#readme",
   "dependencies": {
     "Promise": "^1.0.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "logger": "0.0.1",
     "mongojs": "^3.1.0",
     "morgan": "^1.10.0"
